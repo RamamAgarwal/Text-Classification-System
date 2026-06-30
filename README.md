@@ -340,10 +340,4 @@ Feel free to extend this project:
 - Improve the web interface
 - Add more visualizations
 
-## License
-
-This project is for educational purposes.
-
 ---
-
-**Happy Classifying! 🎉**
